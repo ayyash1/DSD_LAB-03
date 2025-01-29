@@ -1,4 +1,4 @@
-# Digital System Design: Verilog Data Modeling with Vivado
+# Digital System Design: Verilog Dataflow Modeling with Vivado
 
 Welcome to my repository for **Digital System Design** using **Verilog** and **Vivado**. In this project, I have implemented **Verilog data modeling** and simulations for hardware design, providing insights into **parameterized modules** and **register-transfer level (RTL)** design.
 
